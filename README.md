@@ -13,8 +13,8 @@
 	LSP - Latvijas Stādu Parāde, pavasaris.
 	VSP - Vasaras Stādu Parāde.
 	RSP - Rudens Stādu Parāde.
-	* Kopējais:	LSP26B0 - Latvijas Stādu Parāde 2026 zona B		(PP26B0)
-	* Modulis:	LSPB123 - Latvijas Stādu Parāde zona B modulis 123	(Gadu nenorāda, lai nav jāmaina ~500 moduļiem katru gadu.) (PPB123)
+	* Kopējais:	LSPB000 - Latvijas Stādu Parāde 2026 zona B			(Gadu nevajag, jo ir pietiekami rīku atslēgt pieteikšanās iespēju. Tai skaitā atlikumi.) (PP26B0)
+	* Modulis:	LSPB123 - Latvijas Stādu Parāde zona B modulis 123	(Gadu nenorāda, lai nav jāmaina ~400 moduļiem katru gadu.) (PPB123)
 	* Elektr.:	LSPELBA - Latvijas Stādu Parāde ELektrīBA			(Piesiets notikumam, lai nevar iejukt pakalpojumi no citiem.) (PPELBA)
 	* Ūdens:	LSPUDNS - Latvijas Stādu Parāde UDeNS				(Piesiets notikumam, lai nevar iejukt pakalpojumi no citiem.) (PPUDNS)
 	* Metri:	LSPMERI - Latvijas Stādu Parāde MEtRI				(Piesiets notikumam, lai nevar iejukt pakalpojumi no citiem.) (PPMERI)
