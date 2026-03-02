@@ -6,8 +6,8 @@
 	* Biedriem	- Cena biedriem ar standarta atlaidi, bez PVN. (Kolonnas "SAB biedrs 60", "SAB biedrs 200".)
 	* Metri		- Platums metros.
 	* Apraksts	- Apraksts, ko redzēs dalībnieks. Te var rakstīt moduļa īpatnības.
-	i P: LSPB123, B123, 121,00, 78,65, 5, Modulis B123 zona B
-	i '000'		- Vecāka preces SKU, kam pakārtotas variācijas. P: LSPA000
+	* P: LSPB123, B123, 121,00, 78,65, 5, Modulis B123 zona B
+	* '000'		- Vecāka preces SKU, kam pakārtotas variācijas. P: LSPA000
 
 * SKU (8-10):
 	LSP - Latvijas Stādu Parāde, pavasaris.
